@@ -1,0 +1,6 @@
+c:\users\anibal\documents\visual studio 2015\Projects\Relacion1To1\Relacion1To1\bin\Debug\Relacion1To1.exe.config
+c:\users\anibal\documents\visual studio 2015\Projects\Relacion1To1\Relacion1To1\obj\Debug\Relacion1To1.csprojResolveAssemblyReference.cache
+c:\users\anibal\documents\visual studio 2015\Projects\Relacion1To1\Relacion1To1\bin\Debug\Relacion1To1.exe
+c:\users\anibal\documents\visual studio 2015\Projects\Relacion1To1\Relacion1To1\bin\Debug\Relacion1To1.pdb
+c:\users\anibal\documents\visual studio 2015\Projects\Relacion1To1\Relacion1To1\obj\Debug\Relacion1To1.exe
+c:\users\anibal\documents\visual studio 2015\Projects\Relacion1To1\Relacion1To1\obj\Debug\Relacion1To1.pdb

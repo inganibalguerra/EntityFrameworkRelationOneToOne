@@ -1,0 +1,4 @@
+c:\users\anibal\documents\visual studio 2015\Projects\Relacion1To1\DTO\bin\Debug\DTO.dll
+c:\users\anibal\documents\visual studio 2015\Projects\Relacion1To1\DTO\bin\Debug\DTO.pdb
+c:\users\anibal\documents\visual studio 2015\Projects\Relacion1To1\DTO\obj\Debug\DTO.dll
+c:\users\anibal\documents\visual studio 2015\Projects\Relacion1To1\DTO\obj\Debug\DTO.pdb

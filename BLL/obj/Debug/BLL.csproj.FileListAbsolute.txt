@@ -1,0 +1,14 @@
+c:\users\anibal\documents\visual studio 2015\Projects\Relacion1To1\BLL\bin\Debug\BLL.dll.config
+c:\users\anibal\documents\visual studio 2015\Projects\Relacion1To1\BLL\bin\Debug\BLL.dll
+c:\users\anibal\documents\visual studio 2015\Projects\Relacion1To1\BLL\bin\Debug\BLL.pdb
+c:\users\anibal\documents\visual studio 2015\Projects\Relacion1To1\BLL\bin\Debug\DAL.dll
+c:\users\anibal\documents\visual studio 2015\Projects\Relacion1To1\BLL\bin\Debug\DTO.dll
+c:\users\anibal\documents\visual studio 2015\Projects\Relacion1To1\BLL\bin\Debug\EntityFramework.dll
+c:\users\anibal\documents\visual studio 2015\Projects\Relacion1To1\BLL\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\anibal\documents\visual studio 2015\Projects\Relacion1To1\BLL\bin\Debug\DAL.pdb
+c:\users\anibal\documents\visual studio 2015\Projects\Relacion1To1\BLL\bin\Debug\DTO.pdb
+c:\users\anibal\documents\visual studio 2015\Projects\Relacion1To1\BLL\bin\Debug\EntityFramework.xml
+c:\users\anibal\documents\visual studio 2015\Projects\Relacion1To1\BLL\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\anibal\documents\visual studio 2015\Projects\Relacion1To1\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+c:\users\anibal\documents\visual studio 2015\Projects\Relacion1To1\BLL\obj\Debug\BLL.dll
+c:\users\anibal\documents\visual studio 2015\Projects\Relacion1To1\BLL\obj\Debug\BLL.pdb

@@ -1,0 +1,14 @@
+c:\users\anibal\documents\visual studio 2015\Projects\Relacion1To1\DAL\bin\Debug\DAL.dll.config
+c:\users\anibal\documents\visual studio 2015\Projects\Relacion1To1\DAL\bin\Debug\DAL.dll
+c:\users\anibal\documents\visual studio 2015\Projects\Relacion1To1\DAL\bin\Debug\DAL.pdb
+c:\users\anibal\documents\visual studio 2015\Projects\Relacion1To1\DAL\bin\Debug\DTO.dll
+c:\users\anibal\documents\visual studio 2015\Projects\Relacion1To1\DAL\bin\Debug\EntityFramework.dll
+c:\users\anibal\documents\visual studio 2015\Projects\Relacion1To1\DAL\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\anibal\documents\visual studio 2015\Projects\Relacion1To1\DAL\bin\Debug\DTO.pdb
+c:\users\anibal\documents\visual studio 2015\Projects\Relacion1To1\DAL\bin\Debug\EntityFramework.xml
+c:\users\anibal\documents\visual studio 2015\Projects\Relacion1To1\DAL\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\anibal\documents\visual studio 2015\Projects\Relacion1To1\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+c:\users\anibal\documents\visual studio 2015\Projects\Relacion1To1\DAL\obj\Debug\DAL.dll
+c:\users\anibal\documents\visual studio 2015\Projects\Relacion1To1\DAL\obj\Debug\DAL.pdb
+c:\users\anibal\documents\visual studio 2015\Projects\Relacion1To1\DAL\obj\Debug\DAL.Migrations.Migracion1.resources
+c:\users\anibal\documents\visual studio 2015\Projects\Relacion1To1\DAL\obj\Debug\DAL.csproj.GenerateResource.Cache
